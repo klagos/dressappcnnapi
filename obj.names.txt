@@ -1,0 +1,13 @@
+Skirt
+Miniskirt
+Dress
+Jeans
+Shorts
+Jacket
+Trousers
+Shirt
+Coat
+Swimwear
+Suit
+Sandal
+Poleron
